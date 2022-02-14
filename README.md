@@ -4,7 +4,8 @@ MATLAB application that was used to label, train and classify behaviour videos i
 Recommended Matlab version: 2021a.
 Tested versions 2018-2021.
 
-From Matlab "Get More Apps" tab download and install:
+
+Before running, from Matlab "Get More Apps" tab download and install:
 
 Image Processing Toolbox
 Deep Learning Toolbox
