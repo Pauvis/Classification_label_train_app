@@ -16,6 +16,8 @@ Get network training functions from Google net example by typing into the matlab
 
 Add Matlab path to the Google net example folder by going to Home tab --> Set path --> Add with Subfolders.
 
+(Optional) Recommend to pre-process  videos in Handbrake to compress, crop and/or re-index frames: https://handbrake.fr
+
 General workflow:
 
 1)Inspect videos and clearly define classes. Make sure overlaps between classes are resolved in unambiguous manner: e.g. if example contains features of 2 or more classes, what is the dominant class.
