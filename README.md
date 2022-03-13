@@ -1,5 +1,6 @@
 # Classification_label_train_app
-MATLAB application that was used to label, train and classify behaviour videos in Viskaitis et al. 2022
+MATLAB application that was used to label, train and classify behaviour videos in:
+Viskaitis et al., Ingested non-essential amino acids recruit brain orexin cells to suppress eating in mice, Current Biology (2022), https://doi.org/10.1016/j.cub.2022.02.067
 
 Recommended Matlab version: 2021a.
 Tested versions 2018-2021.
